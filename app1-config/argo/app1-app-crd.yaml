@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:sulo15700/argocd-helm.git
+    repoURL: https://github.com/sulo15700/app1-config.git
     targetRevision: HEAD
-    path: argocd-helm/app1-config/app1-helm
+    path: app1-helm
     helm:
       releaseName: app1
   destination:
