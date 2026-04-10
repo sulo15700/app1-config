@@ -7,10 +7,10 @@ data:
   index.html: |
     <html>
     <head>
-      <title>Cloud With VarJosh</title>
+      <title>Cloud With Cilo</title>
     </head>
     <body>
-      <h1>Welcome to Cloud With VarJosh!</h1>
+      <h1>Welcome to Cloud With Cilo!</h1>
       <p>Your happy place for Cloud and DevOps learning </p>
     </body>
     </html>
